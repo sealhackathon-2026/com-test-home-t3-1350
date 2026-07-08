@@ -1,1 +1,2 @@
-# com-test-home-t3-1350
+# Basic Service
+Dự án có cấu trúc đơn giản nhưng thiếu tối ưu hóa và error handling cơ bản.
